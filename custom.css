@@ -1,0 +1,19 @@
+body {font-family: 'Montserrat', sans-serif;}
+
+.g-bg-black-opacity-0_6 {background: linear-gradient(0deg, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.6)) !important;}
+
+.landing-block-menu {
+ background: linear-gradient(0deg, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.6))  !important;
+}
+
+.navbar a {font-family: 'Montserrat', sans-serif; font-weight:normal; color:#ffffff; font-color: #ffffff !important; font-size:10pt;}
+
+.u-header__section--light .navbar a {font-family: 'Montserrat', sans-serif; font-weight:normal; color:#ffffff; font-color: #ffffff !important; font-size:10pt;}
+
+.u-header__section--light .navbar a:hover {
+font-weight:normal; color:#ffffff; font-color: #ffffff !important; 
+border-radius: 500px;
+background: transparent;
+border: 1px solid #867347;
+box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.16);
+}
