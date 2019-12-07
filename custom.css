@@ -35,7 +35,7 @@ margin: 0px;
 }
 
 a.landing-block-node-menu-logo-link.navbar-brand.u-header__logo {
-    margin-bottom: 10px;
+    margin-bottom: -20px;
 }
 
 a.landing-block-node-menu-logo-link.navbar-brand.u-header__logo:hover {
