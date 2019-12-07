@@ -87,8 +87,8 @@ box-shadow: 0px 3px 6px rgba(0, 0, 0, 0.16);
     margin-top: 10px;
 }
 
-#block24 img {
-    margin-right: -100px;
+#block24 section div div div img {
+    margin-right: -100px !important;
 }
 
 .g-color-bluegray {
