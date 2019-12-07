@@ -101,9 +101,8 @@ margin-right: 0;
     text-align: left !important;
 }
 #block24 section div div div p::after{
-    content: ".";
+    content: "&#x25cf;";
     color:#867347;
-    font-size: 28px;
 }
 
 .g-color-bluegray {
