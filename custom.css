@@ -97,6 +97,10 @@ margin-right: 0;
    text-align: right;
     }
 
+div.landing-block-node-text.g-font-montserrat.g-color-black-opacity-0_8 {
+    text-align: left;
+}
+
 .g-color-bluegray {
     color: #245B65 !important;
 }
