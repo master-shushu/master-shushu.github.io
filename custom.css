@@ -34,9 +34,12 @@ box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.16);
 margin: 0px;
 }
 
+a.landing-block-node-menu-logo-link.navbar-brand.u-header__logo {
+    margin-bottom: 10px;
+}
+
 a.landing-block-node-menu-logo-link.navbar-brand.u-header__logo:hover {
     border: none;
-    margin-bottom: -20%;
 }
 
 .info-v3-4 {
