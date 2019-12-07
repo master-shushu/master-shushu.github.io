@@ -90,7 +90,12 @@ box-shadow: 0px 3px 6px rgba(0, 0, 0, 0.16);
 #block24 section div {
 margin-right: 0;
     max-width: 1020px;
+    padding-right:0;
 }
+
+#block24 section div div:last-child{
+   text-align: right;
+    }
 
 .g-color-bluegray {
     color: #245B65 !important;
