@@ -69,3 +69,9 @@ border: 1px solid #867347;
 .u-shadow-v27 {
     box-shadow: none;
 }
+
+.u-btn-outline-white {
+background: #245b65;
+border: 1px solid #867347;
+box-shadow: 0px 3px 6px rgba(0, 0, 0, 0.16);
+}
