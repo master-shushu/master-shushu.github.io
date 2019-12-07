@@ -77,7 +77,7 @@ box-shadow: 0px 3px 6px rgba(0, 0, 0, 0.16);
 }
 
 .g-bg-teal-opacity-0_9 {
-    background-color: rgba(49, 101, 110, 0.08);
+    background-color: rgba(49, 101, 110, 0.08) !important;
     border-top: 10px solid #245b65;
 }
 
