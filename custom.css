@@ -35,13 +35,14 @@ margin: 0px;
 }
 
 a.landing-block-node-menu-logo-link.navbar-brand.u-header__logo {
-    margin-bottom: -30px;
     margin: 1px;
+    margin-bottom: -20px;
 }
 
 a.landing-block-node-menu-logo-link.navbar-brand.u-header__logo:hover {
     border: none;
     margin: 1px;
+    margin-bottom: -20px;
 }
 
 .info-v3-4 {
