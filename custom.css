@@ -20,7 +20,8 @@ box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.16);
 }
 
 .landing-block-node-text-container .info-v3-4 {
-    padding-top: 75%;
+    position: fixed; 
+    bottom:0%;
     border-radius: 5000px;
 }
 
