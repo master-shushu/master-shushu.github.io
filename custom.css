@@ -113,3 +113,7 @@ margin-right: 0;
 .g-font-weight-700 {
     font-weight: 800 !important;
 }
+
+#block42 section.g-bg-gray-dark-v1 {
+background: linear-gradient(#867347 0%, #433a24 100%);
+}
