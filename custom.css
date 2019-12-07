@@ -1,16 +1,28 @@
 body {font-family: 'Montserrat', sans-serif;}
 
-.g-bg-black-opacity-0_6 {background: linear-gradient(0deg, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.6)) !important;}
+.g-bg-black-opacity-0_6 {
+    background: linear-gradient(0deg, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.6)) !important;
+    border: none;
+}
 
 .landing-block-menu {
  background: linear-gradient(0deg, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.6))  !important;
+ border: none;
 }
 
-.navbar a {font-family: 'Montserrat', sans-serif; font-weight:normal; color:#ffffff; font-size:1em;}
+.navbar a {
+    font-family: 'Montserrat', sans-serif; 
+    font-weight:normal; 
+    color:#ffffff; 
+    font-size:1em;}
 
-.u-header__section--light .navbar a {font-family: 'Montserrat', sans-serif; 
-    font-weight:normal; color:#ffffff; font-size:1em;
-margin: 1px;}
+.u-header__section--light .navbar a {
+    font-family: 'Montserrat', sans-serif; 
+    font-weight:normal; 
+    color:#ffffff; 
+    font-size:1em;
+    margin: 1px;
+}
 
 .u-header__section--light .navbar a:hover {
 font-weight:normal !important; 
