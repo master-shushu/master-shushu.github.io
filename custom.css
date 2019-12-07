@@ -100,7 +100,7 @@ margin-right: 0;
 #block24 section div div div p{
     text-align: left !important;
 }
-#block24 section div div div p:last-child::after{
+#block24 section div div div p::after{
     content: ".";
     color: red;
     font-size: larger;
