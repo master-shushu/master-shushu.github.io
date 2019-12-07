@@ -86,3 +86,12 @@ box-shadow: 0px 3px 6px rgba(0, 0, 0, 0.16);
 #block24 {
     margin-top: 10px;
 }
+
+.g-color-bluegray {
+    color: #245B65;
+}
+
+h2.landing-block-node-title.text-uppercase.g-font-weight-700.mb-0.g-mb-15.g-color-bluegray.g-font-montserrat.font-italic.font-weight-bold.g-font-size-28 {
+    color: #245B65;
+font-weight: 800;
+}
