@@ -40,6 +40,7 @@ a.landing-block-node-menu-logo-link.navbar-brand.u-header__logo {
 
 a.landing-block-node-menu-logo-link.navbar-brand.u-header__logo:hover {
     border: none;
+    margin: 1px;
 }
 
 .info-v3-4 {
