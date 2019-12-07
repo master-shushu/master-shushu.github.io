@@ -8,7 +8,9 @@ body {font-family: 'Montserrat', sans-serif;}
 
 .navbar a {font-family: 'Montserrat', sans-serif; font-weight:normal; color:#ffffff; font-size:1em;}
 
-.u-header__section--light .navbar a {font-family: 'Montserrat', sans-serif; font-weight:normal; color:#ffffff; font-size:1em;}
+.u-header__section--light .navbar a {font-family: 'Montserrat', sans-serif; 
+    font-weight:normal; color:#ffffff; font-size:1em;
+margin: 1px;}
 
 .u-header__section--light .navbar a:hover {
 font-weight:normal !important; 
@@ -17,6 +19,7 @@ border-radius: 500px;
 background: transparent;
 border: 1px solid #867347;
 box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.16);
+margin: 0px;
 }
 
 .info-v3-4 {
