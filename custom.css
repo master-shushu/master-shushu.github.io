@@ -100,6 +100,11 @@ margin-right: 0;
 #block24 section div div div p{
     text-align: left !important;
 }
+#block24 section div div div p:last-child::after{
+    content: ".";
+    color: red;
+    font-size: larger;
+}
 
 .g-color-bluegray {
     color: #245B65 !important;
