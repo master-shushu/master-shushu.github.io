@@ -93,7 +93,7 @@ margin-right: 0;
     padding-right:0;
 }
 
-#block24 section div div.row.landing-block-node-block:nth-child(2){
+#block24 section div div div:nth-child(2){
    text-align: right;
     }
 
