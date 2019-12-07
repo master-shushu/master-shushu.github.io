@@ -19,10 +19,11 @@ border: 1px solid #867347;
 box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.16);
 }
 
-.landing-block-node-text-container .info-v3-4 {
-    position: fixed; 
+.info-v3-4 {
+    position: absolute;
     bottom:0%;
     border-radius: 5000px;
+border: 1px solid #867347;
 }
 
 .info-v3-4::before {
