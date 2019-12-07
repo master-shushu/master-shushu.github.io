@@ -101,7 +101,7 @@ margin-right: 0;
     text-align: left !important;
 }
 #block24 section div div div p::after{
-    content: "&#x25cf;";
+    content: "\25CF";
     color:#867347;
 }
 
