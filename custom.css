@@ -36,6 +36,7 @@ margin: 0px;
 
 a.landing-block-node-menu-logo-link.navbar-brand.u-header__logo {
     margin-bottom: -20px;
+    margin: 1px;
 }
 
 a.landing-block-node-menu-logo-link.navbar-brand.u-header__logo:hover {
