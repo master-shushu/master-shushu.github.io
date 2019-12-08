@@ -1,5 +1,7 @@
 body {font-family: 'Montserrat', sans-serif;}
 
+ /*-------HEAD-------*/
+
 .g-bg-black-opacity-0_6 {
     background: linear-gradient(0deg, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.6) 50%) !important;
     border: none;
@@ -45,6 +47,8 @@ a.landing-block-node-menu-logo-link.navbar-brand.u-header__logo:hover {
     margin-bottom: -20px;
 }
 
+ /*-------COVER-------*/
+
 .info-v3-4 {
     position: relative;
     bottom:-28vw;
@@ -84,6 +88,8 @@ box-shadow: 0px 3px 6px rgba(0, 0, 0, 0.16);
     margin-top:10px;
 }
 
+ /*-------ABOUT-------*/
+
 #block24 {
     margin-top: 10px;
 }
@@ -115,6 +121,8 @@ margin-right: 0;
     font-weight: 800 !important;
 }
 
+ /*-------BOTTOM-------*/
+
 #block42 section.g-bg-gray-dark-v1 {
 background: linear-gradient(#867347 0%, #433a24 100%);
 margin-top: 10px;
@@ -125,21 +133,23 @@ padding: 0 !important;
     display: none;
 }
 
+#block42 div.col-md-6 {
+    width: 20vw !important;
+    background: url("https://https://master-shushu.github.io/logo-bot.svg");
+    background-size: 100px auto;
+    background-position: 10px 0;
+}
+
 #block42 i.landing-block-node-card-contact-icon {
     display: none;
     color: white;
-}
-
-#block42 address div div.g-color-white {
-    background: url("https://https://master-shushu.github.io/logo-bot.svg");
-    background-size: 100px auto;
-    background-position: 0 -60px;
 }
 
 #block58 {
     height: 0;
     z-index: 1000;
 }
+ /*-------PARTNERS-------*/
 
 #block40 div.g-bg-teal {
     background-color: #31656E !important;
@@ -169,6 +179,8 @@ padding: 2vw;
 #block40 .g-bg-black-opacity-0_5 h3 {
     margin-top: 15px;
 }
+
+ /*-------PARTNERS LEFT COL-------*/
 
 #block54 {
     height: 0;
