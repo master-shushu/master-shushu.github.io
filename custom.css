@@ -120,7 +120,7 @@ background: linear-gradient(#867347 0%, #433a24 100%);
 
 #block40 div.g-bg-teal {
     background-color: #31656E !important;
-    margin-left: 25vw;
+    padding-left: 25vw;
 }
 
 #block40 div.landing-block-node-card {
@@ -134,6 +134,8 @@ margin: 1vw !important;
 padding: 2vw;
 }
 
-#block50 {
-    margin-top: -100%;
+#block54 {
+    height: 0;
+    width: 25vw;
+    z-index: 1000;
 }
