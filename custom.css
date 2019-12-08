@@ -172,6 +172,10 @@ padding: 0 !important;
     margin: 0 !important;
 }
 
+#block42 li a {
+    line-height: 1;
+}
+
 #block58 {
     height: 0;
     z-index: 5;
