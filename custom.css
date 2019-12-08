@@ -164,6 +164,8 @@ padding: 2vw;
     height: 0;
     width: 25vw;
     z-index: 1000;
+    padding-top: 20vw;
+    padding-left: 5vw;
 }
 
 .g-font-size-28 {
