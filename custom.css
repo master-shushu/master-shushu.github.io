@@ -266,6 +266,7 @@ padding: 2vw;
 display: none;
 }
 
-#block80 img.landing-block-node-card-img.img-fluid {
-      
+#block80 div.js-carousel {
+    background: transparent;
+    margin-top: -10vw;
 }
