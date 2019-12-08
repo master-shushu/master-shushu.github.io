@@ -148,7 +148,7 @@ padding: 0 !important;
 
 #block58 {
     height: 0;
-    z-index: 1000;
+    z-index: 5;
 }
  /*-------PARTNERS-------*/
 
@@ -186,7 +186,7 @@ padding: 2vw;
 #block54 {
     height: 0;
     width: 25vw;
-    z-index: 1000;
+    z-index: 5;
     padding-left: 3vw;
 }
 
