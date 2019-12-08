@@ -182,6 +182,11 @@ padding: 0 !important;
     line-height: 2;
 }
 
+#block42 div.row div.col-md-2:nth-child(3) li:nth-child(2) a::before {
+content: "\f082";
+font-family: FontAwesome;
+;}
+
 #block58 {
     height: 0;
     z-index: 5;
