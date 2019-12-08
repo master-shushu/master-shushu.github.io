@@ -182,10 +182,19 @@ padding: 0 !important;
     line-height: 2;
 }
 
-#block42 div.row div.col-md-2:nth-child(3) li:nth-child(2) a::before {
+#block42 div.row div.col-md-2:nth-child(3) li:nth-child(1) a::before {
 content: "\f082";
 font-family: 'FontAwesome';
+font-size: 1.5rem;
+margin-left: 10px;
 ;}
+
+#block42 div.row div.col-md-2:nth-child(3) li:nth-child(2) a::before {
+    content: "\f16d";
+    font-family: 'FontAwesome';
+    font-size: 1.5rem;
+    margin-left: 10px;
+    ;}
 
 #block58 {
     height: 0;
