@@ -167,6 +167,7 @@ padding: 0 !important;
 
 #block42 ul {
     margin-bottom: 10px !important;
+    margin-top:10px;
 }
 
 #block42 li {
@@ -177,7 +178,7 @@ padding: 0 !important;
 #block42 li a {
     line-height: 1;
 }
-#block42 div.row div.col-md-2:nth-child(3) li {
+#block42 div.row div.col-md-2:nth-child(3) li:nth-child(2) {
     line-height: 2;
 }
 
