@@ -311,6 +311,7 @@ display: none;
     border-radius: 500px;
     border: 1px solid #867347;
     background-color: white !important;
+    color: #867347 !important; 
     box-shadow: 2px 2px 3px rgba(0, 0, 0, 0.16);;
 }
 
