@@ -164,8 +164,14 @@ padding: 2vw;
     height: 0;
     width: 25vw;
     z-index: 1000;
-    padding-top: 20vw;
+    padding-top: 50vw;
     padding-left: 3vw;
+}
+
+#block54 h2::after {
+    content: "\25CF";
+    color:#867347;
+    vertical-align: sub;
 }
 
 .g-font-size-28 {
