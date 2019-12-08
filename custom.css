@@ -275,6 +275,10 @@ display: none;
     background-size: calc(70vw - 2px) 10vw;
 }
 
+#block80 section {
+    padding-bottom: 0 !important;
+}
+
 #block80 div.landing-block-node-card.js-slide.g-px-7.slick-slide.slick-active {
     min-width: 25vw;
 }
