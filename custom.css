@@ -125,12 +125,9 @@ padding: 0 !important;
     display: none;
 }
 
-/* #block42 div.landing-block-node-card:nth-child(3) ul {
-    display: none;
-} */
-
 #block42 i.landing-block-node-card-contact-icon {
     display: none;
+    color: white;
 }
 
 #block58 {
