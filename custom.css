@@ -129,6 +129,10 @@ padding: 0 !important;
     display: none;
 } */
 
+#block42 i.landing-block-node-card-contact-icon {
+    display: none;
+}
+
 #block58 {
     height: 0;
     z-index: 1000;
