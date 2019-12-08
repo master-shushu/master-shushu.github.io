@@ -179,8 +179,8 @@ padding: 2vw;
 }
 
 #part-btn:hover {
-    background-color: white;
-    color:#31656E;
+    background-color: white !important;
+    color:#31656E !important;
 }
 
 .g-font-size-28 {
