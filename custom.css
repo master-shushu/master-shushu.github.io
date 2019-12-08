@@ -307,6 +307,10 @@ display: none;
     cursor: pointer;  
 }
 
+#block80 p {
+    white-space: pre-line !important;
+}
+
 #block80 div.js-prev, #block80 div.js-next {
     border-radius: 500px;
     border: 1px solid #867347;
