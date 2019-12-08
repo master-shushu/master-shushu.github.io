@@ -47,13 +47,14 @@ a.landing-block-node-menu-logo-link.navbar-brand.u-header__logo:hover {
 
 .info-v3-4 {
     position: relative;
-    bottom:-20vw;
+    bottom:-28vw;
     height: 40vw;
     left: 50%;
     width: 70vw;
     margin-left: -35vw;
     border-radius: 100px 100px 0px 0px / 100px 100px 0px 0px;
 border: 1px solid #867347;
+padding: 2vw !important;
 }
 
 .info-v3-4::before {
