@@ -284,7 +284,7 @@ display: none;
 }
 
 #block80 div.landing-block-node-card.js-slide.g-px-7.slick-slide.slick-active p {
-    color: #433a24 !important;
+    color: #867347 !important;
 }
 
 #block80 div.landing-block-node-card.js-slide.g-px-7.slick-slide.slick-active div:hover {
@@ -296,13 +296,13 @@ display: none;
 }
 
 #block80 div.landing-block-node-card.js-slide.g-px-7.slick-slide.slick-active div.d-inline-block {
-    border: 1px solid #433a24; 
-    color: #433a24 !important;
+    border: 1px solid #867347; 
+    color: #867347 !important;
     border-radius: 500px;   
 }
 
 #block80 div.landing-block-node-card.js-slide.g-px-7.slick-slide.slick-active div.d-inline-block:hover {
-    background: #433a24 !important;
+    background: #867347 !important;
     color: white !important;
     cursor: pointer;  
 }
