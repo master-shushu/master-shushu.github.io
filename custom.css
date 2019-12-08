@@ -164,8 +164,11 @@ padding: 2vw;
     height: 0;
     width: 25vw;
     z-index: 1000;
-    padding-top: 50vw;
     padding-left: 3vw;
+}
+
+#block54 h2 {
+    margin-top: 20vw;
 }
 
 #block54 h2::after {
