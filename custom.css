@@ -265,3 +265,7 @@ padding: 2vw;
 #block36 {
 display: none;
 }
+
+#block80 img.landing-block-node-card-img.img-fluid {
+    border-block: 15px solid white;
+}
