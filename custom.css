@@ -259,3 +259,9 @@ padding: 2vw;
 .g-font-size-28 {
     font-size: 3rem !important;
 }
+
+/*--------EVENTS--------*/
+
+#block36 div.landing-block-node-card {
+    max-width: 25vw;
+}
