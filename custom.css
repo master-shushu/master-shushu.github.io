@@ -120,6 +120,9 @@ background: linear-gradient(#867347 0%, #433a24 100%);
 
 #block40 div.g-bg-teal {
     background-color: #31656E !important;
+    background: url("https://master-shushu.github.io/ellipse-bg.svg") no-repeat;
+    background-position: -50px center;
+    background-size: 30vw;
     padding-left: 25vw;
 }
 
