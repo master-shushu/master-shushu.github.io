@@ -267,15 +267,5 @@ display: none;
 }
 
 #block80 img.landing-block-node-card-img.img-fluid {
-    --stroke-pos: 15px;
-    --stroke-neg: -15px;
-    --stroke-color: white;
-    filter: drop-shadow(var(--stroke-pos) 0 0 var(--stroke-color)) 
-      drop-shadow(var(--stroke-neg) 0 var(--stroke-color))
-      drop-shadow(0 var(--stroke-pos) 0 var(--stroke-color))
-      drop-shadow(0 var(--stroke-neg) 0 var(--stroke-color))
-      drop-shadow(var(--stroke-pos) var(--stroke-pos) 0 var(--stroke-color)) 
-      drop-shadow(var(--stroke-pos) var(--stroke-neg) 0 var(--stroke-color))
-      drop-shadow(var(--stroke-neg) var(--stroke-pos) 0 var(--stroke-color))
-      drop-shadow(var(--stroke-neg) var(--stroke-neg) 0 var(--stroke-color));   
+      
 }
