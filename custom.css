@@ -128,8 +128,8 @@ background: linear-gradient(#867347 0%, #433a24 100%);
 border-radius: 1000px;
 width: 20vw;
 height: 20vw;
-max-width: 20vw;
+min-width: 20vw;
 max-height: 20vw;
-margin: 2vw !important;
+margin: 1vw !important;
 padding: 2vw;
 }
