@@ -117,3 +117,19 @@ margin-right: 0;
 #block42 section.g-bg-gray-dark-v1 {
 background: linear-gradient(#867347 0%, #433a24 100%);
 }
+
+#block40 div.g-bg-teal {
+    background-color: #31656E !important;
+    margin-left: 25vw;
+}
+
+#block40 div.landing-block-node-card {
+    background-color: white;
+border-radius: 1000px;
+width: 20vw;
+height: 20vw;
+max-width: 20vw;
+max-height: 20vw;
+margin: 2vw !important;
+padding: 2vw;
+}
