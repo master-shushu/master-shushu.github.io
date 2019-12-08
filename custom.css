@@ -270,6 +270,7 @@ display: none;
     background: transparent;
     margin-top: -10vw;
     background-image: url("https://master-shushu.github.io/ev-m-bg.svg");
-    background-size: 70vw auto;
-    background-position: center top;
+    background-size: 70vw 25vw;
+    background-position: center 10vw;
+    background-repeat: no-repeat;
 }
