@@ -160,6 +160,16 @@ margin: 1vw !important;
 padding: 2vw;
 }
 
+#block40 .g-bg-black-opacity-0_5 {
+    background-color: rgba(0,0,0,0.5)!important;
+    border-radius: 500px;
+    top: 0%;
+}
+
+#block40 .g-bg-black-opacity-0_5 h3 {
+    margin-top: 15px;
+}
+
 #block54 {
     height: 0;
     width: 25vw;
