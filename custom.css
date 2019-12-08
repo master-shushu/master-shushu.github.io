@@ -134,7 +134,7 @@ padding: 0 !important;
 }
 
 #block42 div.col-md-6 {
-    width: 20vw !important;
+    max-width: 20vw !important;
     background: url("https://master-shushu.github.io/logo-bot.svg");
     background-size: 100px auto;
     background-position: 25px 10px;
