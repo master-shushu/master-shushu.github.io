@@ -129,6 +129,11 @@ padding: 0 !important;
     display: none;
 }
 
+#block58 {
+    height: 0;
+    z-index: 1000;
+}
+
 #block40 div.g-bg-teal {
     background-color: #31656E !important;
     background: url("https://master-shushu.github.io/ellipse-bg.svg") no-repeat;
