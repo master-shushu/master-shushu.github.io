@@ -267,5 +267,8 @@ display: none;
 }
 
 #block80 img.landing-block-node-card-img.img-fluid {
-    border-block: 15px solid white;
+    filter: drop-shadow(15px 15px 0 white)
+        drop-shadow(-15px 15px 0 white)
+        drop-shadow(15px -15px 0 white)
+        drop-shadow(-15px -15px 0 white);
 }
