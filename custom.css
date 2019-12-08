@@ -269,4 +269,7 @@ display: none;
 #block80 div.js-carousel {
     background: transparent;
     margin-top: -10vw;
+    background-image: url("https://master-shushu.github.io/ev-m-bg.svg");
+    background-size: 70vw auto;
+    background-position: center top;
 }
