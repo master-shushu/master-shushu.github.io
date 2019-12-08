@@ -272,7 +272,7 @@ display: none;
     padding-left: 0 !important;
     background: url("https://master-shushu.github.io/ev-m-bg.png") no-repeat;
     background-position: center top;
-    background-size: 70vw 10vw;
+    background-size: calc(70vw - 2px) 10vw;
 }
 
 #block80 div.landing-block-node-card.js-slide.g-px-7.slick-slide.slick-active {
