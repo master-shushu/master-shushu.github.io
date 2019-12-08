@@ -141,6 +141,11 @@ padding: 0 !important;
     background-repeat: no-repeat;
 }
 
+@media (min-width: 992px) {
+    #block42 div.container {
+        min-width: 90vw;
+    }
+}
 #block42 i.landing-block-node-card-contact-icon {
     display: none;
     color: white;
@@ -151,8 +156,8 @@ padding: 0 !important;
 }
 
 #block42 div.row div.col-md-2:nth-child(3) {
-    max-width: 50vw;
-    min-width: 50vw;
+    max-width: 40vw;
+    min-width: 40vw;
 }
 
 #block42 div.row div.col-md-2:nth-child(4) {
