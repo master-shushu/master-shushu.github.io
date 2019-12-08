@@ -117,6 +117,8 @@ margin-right: 0;
 
 #block42 section.g-bg-gray-dark-v1 {
 background: linear-gradient(#867347 0%, #433a24 100%);
+margin-top: 10px;
+padding: 0 !important;
 }
 
 #block40 div.g-bg-teal {
