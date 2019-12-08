@@ -152,6 +152,7 @@ padding: 0 !important;
 
 #block42 div.row div.col-md-2:nth-child(2) {
     max-width: 50vw;
+    min-width: 50vw;
 }
 
 #block42 div.row div.col-md-2:nth-child(3) {
