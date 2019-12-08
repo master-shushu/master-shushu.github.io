@@ -146,7 +146,7 @@ padding: 0 !important;
     background: url("https://master-shushu.github.io/ellipse-bg.svg") no-repeat;
     background-position: -10vw center;
     background-size: 45vw;
-    padding-left: 25vw;
+    padding-left: 27vw;
 }
 
 #block40 div.landing-block-node-card {
@@ -175,6 +175,12 @@ padding: 2vw;
     content: "\25CF";
     color:#867347;
     vertical-align: sub;
+    font-size: 1.5rem;
+}
+
+#part-btn a:hover {
+    background-color: white;
+    color:#31656E;
 }
 
 .g-font-size-28 {
