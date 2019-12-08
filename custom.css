@@ -164,6 +164,14 @@ padding: 0 !important;
     max-width: 15vw;
 }
 
+#block42 ul {
+    margin-bottom: 10px;
+}
+
+#block42 li {
+    margin: 0;
+}
+
 #block58 {
     height: 0;
     z-index: 5;
