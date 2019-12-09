@@ -360,7 +360,7 @@ display: none;
     color: white !important;
     cursor: pointer;  
 }
-#block92 div.js-prev, #block80 div.js-next {
+#block92 div.js-prev, #block92 div.js-next {
     border-radius: 500px;
     border: 1px solid #867347;
     background-color: white !important;
@@ -368,7 +368,7 @@ display: none;
     box-shadow: 2px 2px 3px rgba(0, 0, 0, 0.16);;
 }
 
-#block92 div.js-prev:hover, #block80 div.js-next:hover {
+#block92 div.js-prev:hover, #block92 div.js-next:hover {
     background-color: #867347 !important;
     color: white !important;
     box-shadow: 2px 2px 3px rgba(0, 0, 0, 0.16);;
@@ -397,4 +397,10 @@ display: none;
     margin-top: -300px;
     margin-bottom: 280px !important;
     text-transform: capitalize;
+}
+
+#block98 {
+    height: 0;
+    z-index: 5;
+    color: white !important;
 }
