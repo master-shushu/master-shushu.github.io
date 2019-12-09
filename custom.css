@@ -380,8 +380,7 @@ display: none;
 
 #block92 div.landing-block-node-card-container img {
     text-align: center;
-    position: relative;
-    top: 400px;
+    padding-top: 150px;
 }
 
 #block92 div.landing-block-node-card-text p {
@@ -394,5 +393,5 @@ display: none;
     font-size: 1rem !important;
     text-align: center !important;
     color: #245b65 !important;
-    margin-top: -400px;
+    margin-top: -200px;
 }
