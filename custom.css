@@ -334,3 +334,7 @@ display: none;
     background-position: center top;
     background-size: 100vw auto;
 }
+
+#block80 section {
+    padding: 0 !important;
+}
