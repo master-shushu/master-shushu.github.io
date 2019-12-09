@@ -403,4 +403,20 @@ display: none;
     height: 0;
     z-index: 5;
     color: white !important;
+    margin: 0;
+    padding-top: 10px;
+}
+
+#block98 h2 {
+    margin-top: 4vw;
+    font-weight: 800 !important;
+    font-style: italic;
+    font-size: 3rem !important;
+color: #fff;
+}
+
+#block98 h2::after {
+    content: "\25CF";
+    color:#867347;
+    vertical-align: sub;
 }
