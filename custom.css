@@ -349,6 +349,11 @@ display: none;
     margin-right: 10px !important;
 }
 
+#block92 div.landing-block-node-card:nth-child(1) {
+    background: #DFE0C9;
+}
+
+
 #block92 div.landing-block-node-card.js-slide.g-px-7.slick-slide.slick-active div.d-inline-block {
     border: 1px solid #245B65; 
     color: #245B65 !important;
