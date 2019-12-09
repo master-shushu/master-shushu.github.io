@@ -123,17 +123,17 @@ margin-right: 0;
 
  /*-------BOTTOM-------*/
 
-#block42 section.g-bg-gray-dark-v1 {
+#block42 section.g-bg-gray-dark-v1, #block146 section.g-bg-gray-dark-v1 {
 background: linear-gradient(#867347 0%, #433a24 100%);
 margin-top: 10px;
 padding: 0 !important;
 }
 
-#block42 h2 {
+#block42 h2, #block146 h2 {
     display: none;
 }
 
-#block42 div.col-md-6 {
+#block42 div.col-md-6, #block146 div.col-md-6 {
     max-width: 20vw !important;
     background: url("https://master-shushu.github.io/logo-bot.svg");
     background-size: 100px auto;
@@ -142,54 +142,54 @@ padding: 0 !important;
 }
 
 @media (min-width: 992px) {
-    #block42 div.container {
+    #block42 div.container, #block146 div.container {
         min-width: 90vw;
     }
 }
-#block42 i.landing-block-node-card-contact-icon {
+#block42 i.landing-block-node-card-contact-icon, #block146 i.landing-block-node-card-contact-icon {
     display: none;
     color: white;
 }
 
-#block42 div.row div.col-md-2:nth-child(2) {
+#block42 div.row div.col-md-2:nth-child(2), #block146 div.row div.col-md-2:nth-child(2) {
     max-width: 10vw;
 }
 
-#block42 div.row div.col-md-2:nth-child(3) {
+#block42 div.row div.col-md-2:nth-child(3), #block146 div.row div.col-md-2:nth-child(3) {
     max-width: 35vw;
     min-width: 35vw;
 }
 
-#block42 div.row div.col-md-2:nth-child(4) {
+#block42 div.row div.col-md-2:nth-child(4), #block146 div.row div.col-md-2:nth-child(4) {
     max-width: 20vw;    
     min-width: 20vw;
 }
 
-#block42 ul {
+#block42 ul, #block146 ul {
     margin-bottom: 10px !important;
     margin-top:10px;
 }
 
-#block42 li {
+#block42 li, #block146 li {
     margin: 0 !important;
     line-height: 1;
 }
 
-#block42 li a {
+#block42 li a, #block146 li a {
     line-height: 1;
 }
-#block42 div.row div.col-md-2:nth-child(3) li:nth-child(2) {
+#block42 div.row div.col-md-2:nth-child(3) li:nth-child(2), #block146 div.row div.col-md-2:nth-child(3) li:nth-child(2){
     line-height: 2;
 }
 
-#block42 div.row div.col-md-2:nth-child(3) li:nth-child(1) a::before {
+#block42 div.row div.col-md-2:nth-child(3) li:nth-child(1) a::before, #block146 div.row div.col-md-2:nth-child(3) li:nth-child(1) a::before {
 content: "\f082";
 font-family: 'FontAwesome';
 font-size: 1rem;
 margin-right: 10px;
 ;}
 
-#block42 div.row div.col-md-2:nth-child(3) li:nth-child(2) a::before {
+#block42 div.row div.col-md-2:nth-child(3) li:nth-child(2) a::before, #block146 div.row div.col-md-2:nth-child(3) li:nth-child(2) a::before {
     content: "\f16d";
     font-family: 'FontAwesome';
     font-size: 1rem;
@@ -424,4 +424,12 @@ color: #fff;
     content: "\25CF";
     color:#867347;
     vertical-align: sub;
+}
+
+/*---------------------------*/
+/*-------CONTACT PAGE--------*/
+/*---------------------------*/
+
+#block130 {
+    display: none;
 }
