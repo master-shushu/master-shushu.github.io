@@ -342,7 +342,7 @@ display: none;
 #block92 div.landing-block-node-card {
     background: white;
     box-shadow: 0px 2px 6px rgba(0, 0, 0, 0.32);
-
+    margin: 2vw 5vw !important;
 }
 
 #block92 div.landing-block-node-card.js-slide.g-px-7.slick-slide.slick-active div.d-inline-block {
