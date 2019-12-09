@@ -445,3 +445,14 @@ color: #fff;
         vertical-align: sub;
         display: inline;
 }
+
+.u-heading-v2-4--bottom::after {
+    display: none !important;
+
+}
+
+#block180 {
+    max-width: 50vw;
+    width: 50vw;
+    float: right;
+}
