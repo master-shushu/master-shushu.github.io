@@ -339,6 +339,7 @@ display: none;
 
 #block92 section {
     padding: 0 !important;
+    text-align: center !important;
 }
 
 #block92 div.landing-block-node-card {
@@ -371,4 +372,24 @@ display: none;
     background-color: #867347 !important;
     color: white !important;
     box-shadow: 2px 2px 3px rgba(0, 0, 0, 0.16);;
+}
+
+#block92 div.landing-block-node-card-container {
+    text-align: center;
+}
+
+#block92 div.landing-block-node-card-container img {
+    text-align: center;
+}
+
+#block92 div.landing-block-node-card-text p {
+    color: black;
+}
+
+#block92 h3 {
+    font-family: Montserrat;
+    font-weight: normal;
+    font-size: 1rem;
+    text-align: center;
+    color: #245b65;
 }
