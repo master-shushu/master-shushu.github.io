@@ -381,6 +381,7 @@ display: none;
 #block92 div.landing-block-node-card-container img {
     text-align: center;
     padding-top: 150px;
+    display: inline;
 }
 
 #block92 div.landing-block-node-card-text p {
