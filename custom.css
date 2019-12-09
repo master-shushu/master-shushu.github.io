@@ -324,3 +324,13 @@ display: none;
     color: white !important;
     box-shadow: 2px 2px 3px rgba(0, 0, 0, 0.16);;
 }
+
+/*--------CATEGORIES--------*/
+
+#block92 div.js-carousel {
+    background: transparent;
+    padding-left: 0 !important;
+    background: url("https://master-shushu.github.io/cat-bg.png") no-repeat;
+    background-position: center top;
+    background-size: 100vw auto;
+}
