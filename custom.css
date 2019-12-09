@@ -413,7 +413,7 @@ display: none;
 }
 
 #block98 h2 {
-    margin-top: 6vw;
+    margin-top: 3vw !important;
     font-weight: 800 !important;
     font-style: italic;
     font-size: 3rem !important;
