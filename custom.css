@@ -433,3 +433,15 @@ color: #fff;
 #block130 {
     display: none;
 }
+
+#block170 section {
+    background-size: cover;
+    background-position-y: bottom;
+}
+
+#block170 h2::after {
+        content: "\25CF";
+        color:#867347 !important;
+        vertical-align: sub;
+        display: inline;
+}
